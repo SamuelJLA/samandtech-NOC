@@ -172,7 +172,7 @@ export default function CentinelaNOC({ companyId, onNodeClick, onCompanyChange }
       <div className="absolute top-8 left-8 z-50 flex items-center gap-6 pointer-events-auto">
         <div>
           <h2 className="text-2xl font-black text-white italic uppercase tracking-tighter">
-            CENTINELA<span className="text-cyan-400">.NOC</span>
+            SAMANDTECH<span className="text-cyan-400">.NOC</span>
           </h2>
           <p className="text-blue-500 text-[9px] font-black uppercase tracking-[0.4em]">Map view</p>
         </div>

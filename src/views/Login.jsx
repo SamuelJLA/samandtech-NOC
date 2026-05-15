@@ -31,9 +31,9 @@ const Login = () => {
           <div className="inline-flex p-4 rounded-3xl bg-cyan-500/10 border border-cyan-500/20 mb-6 shadow-[0_0_30px_rgba(34,211,238,0.1)]">
             <ShieldCheck className="text-cyan-400" size={48} />
           </div>
-          <h1 className="text-4xl font-black text-white italic tracking-tighter uppercase">
-            CENTINELA<span className="text-cyan-400">.NOC</span>
-          </h1>
+            <h1 className="text-4xl font-black text-white italic tracking-tighter uppercase">
+            SAMANDTECH<span className="text-cyan-400">.NOC</span>
+            </h1>
           <p className="text-slate-500 text-[10px] font-black uppercase tracking-[0.5em] mt-2">
             Secure Access Gateway
           </p>
